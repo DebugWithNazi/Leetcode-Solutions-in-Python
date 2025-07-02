@@ -17,3 +17,4 @@
 	<li><code>1 &lt;= s.length &lt;= 500</code></li>
 	<li><code>s</code> consists of lowercase English letters.</li>
 </ul>
+Video Recording: https://youtu.be/ruYY_qnv7Fs
