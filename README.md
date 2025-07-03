@@ -14,6 +14,7 @@ This repository serves as both a personal archive and a resource for others prep
 ## Hash Table
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0128-longest-consecutive-sequence) |
 | [0778-reorganize-string](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0778-reorganize-string) |
 ## String
 |  |
@@ -35,4 +36,12 @@ This repository serves as both a personal archive and a resource for others prep
 |  |
 | ------- |
 | [0778-reorganize-string](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0778-reorganize-string) |
+## Array
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0128-longest-consecutive-sequence) |
+## Union Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
