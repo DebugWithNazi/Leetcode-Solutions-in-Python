@@ -28,6 +28,7 @@ This repository serves as both a personal archive and a resource for others prep
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0011-container-with-most-water) |
 | [0659-split-array-into-consecutive-subsequences](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0659-split-array-into-consecutive-subsequences) |
 | [0778-reorganize-string](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0778-reorganize-string) |
 ## Sorting
@@ -48,6 +49,7 @@ This repository serves as both a personal archive and a resource for others prep
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0011-container-with-most-water) |
 | [0088-merge-sorted-array](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0088-merge-sorted-array) |
 | [0128-longest-consecutive-sequence](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0128-longest-consecutive-sequence) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -78,6 +80,7 @@ This repository serves as both a personal archive and a resource for others prep
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0011-container-with-most-water) |
 | [0088-merge-sorted-array](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 <!---LeetCode Topics End-->
