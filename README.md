@@ -56,6 +56,7 @@ This repository serves as both a personal archive and a resource for others prep
 | [0088-merge-sorted-array](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0088-merge-sorted-array) |
 | [0128-longest-consecutive-sequence](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0128-longest-consecutive-sequence) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0303-range-sum-query-immutable](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0303-range-sum-query-immutable) |
 | [0659-split-array-into-consecutive-subsequences](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0659-split-array-into-consecutive-subsequences) |
 | [0808-number-of-matching-subsequences](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0808-number-of-matching-subsequences) |
 ## Union Find
@@ -97,4 +98,12 @@ This repository serves as both a personal archive and a resource for others prep
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0042-trapping-rain-water) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0303-range-sum-query-immutable) |
+## Prefix Sum
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
