@@ -15,6 +15,7 @@ This repository serves as both a personal archive and a resource for others prep
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0128-longest-consecutive-sequence) |
+| [0523-continuous-subarray-sum](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0560-subarray-sum-equals-k) |
 | [0659-split-array-into-consecutive-subsequences](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0659-split-array-into-consecutive-subsequences) |
 | [0778-reorganize-string](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0778-reorganize-string) |
@@ -59,6 +60,7 @@ This repository serves as both a personal archive and a resource for others prep
 | [0128-longest-consecutive-sequence](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0128-longest-consecutive-sequence) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0303-range-sum-query-immutable](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0303-range-sum-query-immutable) |
+| [0523-continuous-subarray-sum](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0560-subarray-sum-equals-k) |
 | [0659-split-array-into-consecutive-subsequences](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0659-split-array-into-consecutive-subsequences) |
 | [0808-number-of-matching-subsequences](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0808-number-of-matching-subsequences) |
@@ -110,6 +112,11 @@ This repository serves as both a personal archive and a resource for others prep
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0303-range-sum-query-immutable) |
+| [0523-continuous-subarray-sum](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0560-subarray-sum-equals-k) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/1016-subarray-sums-divisible-by-k) |
+## Math
+|  |
+| ------- |
+| [0523-continuous-subarray-sum](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0523-continuous-subarray-sum) |
 <!---LeetCode Topics End-->
