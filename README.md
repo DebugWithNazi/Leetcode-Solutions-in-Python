@@ -60,6 +60,7 @@ This repository serves as both a personal archive and a resource for others prep
 | [0088-merge-sorted-array](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0088-merge-sorted-array) |
 | [0128-longest-consecutive-sequence](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0128-longest-consecutive-sequence) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0283-move-zeroes](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0303-range-sum-query-immutable) |
 | [0523-continuous-subarray-sum](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0525-contiguous-array) |
@@ -98,6 +99,7 @@ This repository serves as both a personal archive and a resource for others prep
 | [0042-trapping-rain-water](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0283-move-zeroes](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0283-move-zeroes) |
 ## Stack
 |  |
 | ------- |
