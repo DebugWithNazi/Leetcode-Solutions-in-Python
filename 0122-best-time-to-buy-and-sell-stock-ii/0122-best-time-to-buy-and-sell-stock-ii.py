@@ -5,8 +5,8 @@ class Solution(object):
          
         for i in range(1,len(prices)):
             if buy > prices[i]:
-                buy = prices[i] # 1
-            profit += prices[i] - buy # 0,4,
+                buy = prices[i]
+            profit += prices[i] - buy
             buy = prices[i]
         return profit
 
