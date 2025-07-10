@@ -28,6 +28,7 @@ This repository serves as both a personal archive and a resource for others prep
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0125-valid-palindrome) |
 | [0392-is-subsequence](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0392-is-subsequence) |
 | [0778-reorganize-string](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0778-reorganize-string) |
 | [0808-number-of-matching-subsequences](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0808-number-of-matching-subsequences) |
@@ -116,6 +117,7 @@ This repository serves as both a personal archive and a resource for others prep
 | [0026-remove-duplicates-from-sorted-array](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0283-move-zeroes) |
