@@ -4,12 +4,12 @@ class Solution(object):
         right = left + 1
         count = 1
 
-        while right < len(nums): #1
+        while right < len(nums): 
             if nums[left] != nums[right]:
                left += 1
                nums[left] = nums[right]
                count += 1
-            right += 1 #2
+            right += 1 
         return count
 
                 
