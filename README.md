@@ -28,6 +28,7 @@ This repository serves as both a personal archive and a resource for others prep
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0125-valid-palindrome) |
 | [0392-is-subsequence](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0392-is-subsequence) |
 | [0778-reorganize-string](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0778-reorganize-string) |
@@ -62,6 +63,7 @@ This repository serves as both a personal archive and a resource for others prep
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0041-first-missing-positive](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0041-first-missing-positive) |
@@ -104,6 +106,7 @@ This repository serves as both a personal archive and a resource for others prep
 ## Trie
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0014-longest-common-prefix) |
 | [0808-number-of-matching-subsequences](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0808-number-of-matching-subsequences) |
 ## Bit Manipulation
 |  |
