@@ -67,6 +67,7 @@ This repository serves as both a personal archive and a resource for others prep
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0189-rotate-array) |
+| [0238-product-of-array-except-self](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0303-range-sum-query-immutable) |
 | [0523-continuous-subarray-sum](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0523-continuous-subarray-sum) |
@@ -125,6 +126,7 @@ This repository serves as both a personal archive and a resource for others prep
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0303-range-sum-query-immutable) |
 | [0523-continuous-subarray-sum](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0525-contiguous-array) |
