@@ -78,6 +78,7 @@ This repository serves as both a personal archive and a resource for others prep
 | [0659-split-array-into-consecutive-subsequences](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0659-split-array-into-consecutive-subsequences) |
 | [0808-number-of-matching-subsequences](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0808-number-of-matching-subsequences) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/1016-subarray-sums-divisible-by-k) |
+| [2432-number-of-zero-filled-subarrays](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/2432-number-of-zero-filled-subarrays) |
 ## Union Find
 |  |
 | ------- |
@@ -140,6 +141,7 @@ This repository serves as both a personal archive and a resource for others prep
 | ------- |
 | [0189-rotate-array](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0189-rotate-array) |
 | [0523-continuous-subarray-sum](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0523-continuous-subarray-sum) |
+| [2432-number-of-zero-filled-subarrays](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/2432-number-of-zero-filled-subarrays) |
 ## Divide and Conquer
 |  |
 | ------- |
