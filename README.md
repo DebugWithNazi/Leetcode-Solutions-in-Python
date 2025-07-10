@@ -15,6 +15,7 @@ This repository serves as both a personal archive and a resource for others prep
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0128-longest-consecutive-sequence) |
+| [0169-majority-element](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0169-majority-element) |
 | [0523-continuous-subarray-sum](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0560-subarray-sum-equals-k) |
@@ -40,6 +41,7 @@ This repository serves as both a personal archive and a resource for others prep
 | ------- |
 | [0015-3sum](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0169-majority-element) |
 | [0778-reorganize-string](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0778-reorganize-string) |
 | [0808-number-of-matching-subsequences](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0808-number-of-matching-subsequences) |
 ## Heap (Priority Queue)
@@ -50,6 +52,7 @@ This repository serves as both a personal archive and a resource for others prep
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0169-majority-element) |
 | [0778-reorganize-string](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0778-reorganize-string) |
 ## Array
 |  |
@@ -60,6 +63,7 @@ This repository serves as both a personal archive and a resource for others prep
 | [0088-merge-sorted-array](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0088-merge-sorted-array) |
 | [0128-longest-consecutive-sequence](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0128-longest-consecutive-sequence) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0303-range-sum-query-immutable) |
 | [0523-continuous-subarray-sum](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0523-continuous-subarray-sum) |
@@ -124,4 +128,8 @@ This repository serves as both a personal archive and a resource for others prep
 |  |
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0523-continuous-subarray-sum) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
