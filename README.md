@@ -122,6 +122,7 @@ This repository serves as both a personal archive and a resource for others prep
 | [0201-bitwise-and-of-numbers-range](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0260-single-number-iii](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0260-single-number-iii) |
 | [0338-counting-bits](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0338-counting-bits) |
+| [0371-sum-of-two-integers](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0371-sum-of-two-integers) |
 | [1632-number-of-good-ways-to-split-a-string](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/1632-number-of-good-ways-to-split-a-string) |
 ## Two Pointers
 |  |
@@ -162,6 +163,7 @@ This repository serves as both a personal archive and a resource for others prep
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0189-rotate-array) |
+| [0371-sum-of-two-integers](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0371-sum-of-two-integers) |
 | [0523-continuous-subarray-sum](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0523-continuous-subarray-sum) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/2432-number-of-zero-filled-subarrays) |
 ## Divide and Conquer
