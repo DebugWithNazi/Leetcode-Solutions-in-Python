@@ -116,6 +116,7 @@ This repository serves as both a personal archive and a resource for others prep
 |  |
 | ------- |
 | [0136-single-number](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0136-single-number) |
+| [0190-reverse-bits](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0191-number-of-1-bits) |
 | [0338-counting-bits](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0338-counting-bits) |
 | [1632-number-of-good-ways-to-split-a-string](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/1632-number-of-good-ways-to-split-a-string) |
@@ -164,5 +165,6 @@ This repository serves as both a personal archive and a resource for others prep
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0169-majority-element) |
+| [0190-reverse-bits](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->
