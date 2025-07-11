@@ -74,6 +74,7 @@ This repository serves as both a personal archive and a resource for others prep
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0128-longest-consecutive-sequence) |
+| [0136-single-number](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0189-rotate-array) |
@@ -113,6 +114,7 @@ This repository serves as both a personal archive and a resource for others prep
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0136-single-number) |
 | [1632-number-of-good-ways-to-split-a-string](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/1632-number-of-good-ways-to-split-a-string) |
 ## Two Pointers
 |  |
