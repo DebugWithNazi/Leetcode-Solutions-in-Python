@@ -6,13 +6,7 @@ class Solution(object):
         return right
 
 
-
-
-
-
-
-
-       
+              
      
     
     # brute force
