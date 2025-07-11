@@ -103,6 +103,7 @@ This repository serves as both a personal archive and a resource for others prep
 | [0042-trapping-rain-water](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0338-counting-bits](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0392-is-subsequence) |
 | [0808-number-of-matching-subsequences](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0808-number-of-matching-subsequences) |
 | [1632-number-of-good-ways-to-split-a-string](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/1632-number-of-good-ways-to-split-a-string) |
@@ -116,6 +117,7 @@ This repository serves as both a personal archive and a resource for others prep
 | ------- |
 | [0136-single-number](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0191-number-of-1-bits) |
+| [0338-counting-bits](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0338-counting-bits) |
 | [1632-number-of-good-ways-to-split-a-string](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/1632-number-of-good-ways-to-split-a-string) |
 ## Two Pointers
 |  |
