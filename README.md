@@ -79,6 +79,7 @@ This repository serves as both a personal archive and a resource for others prep
 | [0169-majority-element](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0238-product-of-array-except-self) |
+| [0260-single-number-iii](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0260-single-number-iii) |
 | [0283-move-zeroes](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0303-range-sum-query-immutable) |
 | [0523-continuous-subarray-sum](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0523-continuous-subarray-sum) |
@@ -119,6 +120,7 @@ This repository serves as both a personal archive and a resource for others prep
 | [0190-reverse-bits](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0191-number-of-1-bits) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0201-bitwise-and-of-numbers-range) |
+| [0260-single-number-iii](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0260-single-number-iii) |
 | [0338-counting-bits](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0338-counting-bits) |
 | [1632-number-of-good-ways-to-split-a-string](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/1632-number-of-good-ways-to-split-a-string) |
 ## Two Pointers
