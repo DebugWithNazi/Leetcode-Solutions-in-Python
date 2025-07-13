@@ -36,6 +36,7 @@ This repository serves as both a personal archive and a resource for others prep
 | [0392-is-subsequence](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0392-is-subsequence) |
 | [0778-reorganize-string](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0778-reorganize-string) |
 | [0808-number-of-matching-subsequences](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0808-number-of-matching-subsequences) |
+| [1128-remove-all-adjacent-duplicates-in-string](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1632-number-of-good-ways-to-split-a-string](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/1632-number-of-good-ways-to-split-a-string) |
 ## Greedy
 |  |
@@ -144,6 +145,7 @@ This repository serves as both a personal archive and a resource for others prep
 | ------- |
 | [0020-valid-parentheses](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0042-trapping-rain-water) |
+| [1128-remove-all-adjacent-duplicates-in-string](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 ## Monotonic Stack
 |  |
 | ------- |
