@@ -25,6 +25,7 @@ This repository serves as both a personal archive and a resource for others prep
 | [0659-split-array-into-consecutive-subsequences](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0659-split-array-into-consecutive-subsequences) |
 | [0778-reorganize-string](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0778-reorganize-string) |
 | [0808-number-of-matching-subsequences](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0808-number-of-matching-subsequences) |
+| [0817-design-hashmap](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0817-design-hashmap) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1632-number-of-good-ways-to-split-a-string](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/1632-number-of-good-ways-to-split-a-string) |
 | [1635-number-of-good-pairs](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/1635-number-of-good-pairs) |
@@ -96,6 +97,7 @@ This repository serves as both a personal archive and a resource for others prep
 | [0643-maximum-average-subarray-i](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0643-maximum-average-subarray-i) |
 | [0659-split-array-into-consecutive-subsequences](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0659-split-array-into-consecutive-subsequences) |
 | [0808-number-of-matching-subsequences](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0808-number-of-matching-subsequences) |
+| [0817-design-hashmap](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0817-design-hashmap) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1635-number-of-good-pairs](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/1635-number-of-good-pairs) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/2432-number-of-zero-filled-subarrays) |
@@ -162,6 +164,7 @@ This repository serves as both a personal archive and a resource for others prep
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0303-range-sum-query-immutable) |
+| [0817-design-hashmap](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0817-design-hashmap) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -190,4 +193,12 @@ This repository serves as both a personal archive and a resource for others prep
 | ------- |
 | [0438-find-all-anagrams-in-a-string](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0643-maximum-average-subarray-i](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0643-maximum-average-subarray-i) |
+## Linked List
+|  |
+| ------- |
+| [0817-design-hashmap](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0817-design-hashmap) |
+## Hash Function
+|  |
+| ------- |
+| [0817-design-hashmap](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0817-design-hashmap) |
 <!---LeetCode Topics End-->
