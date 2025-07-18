@@ -27,6 +27,7 @@ This repository serves as both a personal archive and a resource for others prep
 | [0808-number-of-matching-subsequences](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0808-number-of-matching-subsequences) |
 | [0817-design-hashmap](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0817-design-hashmap) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/1016-subarray-sums-divisible-by-k) |
+| [1297-maximum-number-of-balloons](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/1297-maximum-number-of-balloons) |
 | [1632-number-of-good-ways-to-split-a-string](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/1632-number-of-good-ways-to-split-a-string) |
 | [1635-number-of-good-pairs](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/1635-number-of-good-pairs) |
 ## String
@@ -43,6 +44,7 @@ This repository serves as both a personal archive and a resource for others prep
 | [0778-reorganize-string](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0778-reorganize-string) |
 | [0808-number-of-matching-subsequences](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0808-number-of-matching-subsequences) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+| [1297-maximum-number-of-balloons](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/1297-maximum-number-of-balloons) |
 | [1632-number-of-good-ways-to-split-a-string](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/1632-number-of-good-ways-to-split-a-string) |
 ## Greedy
 |  |
@@ -69,6 +71,7 @@ This repository serves as both a personal archive and a resource for others prep
 | ------- |
 | [0169-majority-element](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0169-majority-element) |
 | [0778-reorganize-string](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0778-reorganize-string) |
+| [1297-maximum-number-of-balloons](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/1297-maximum-number-of-balloons) |
 | [1635-number-of-good-pairs](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/1635-number-of-good-pairs) |
 ## Array
 |  |
