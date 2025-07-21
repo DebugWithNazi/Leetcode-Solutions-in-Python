@@ -1,31 +1,24 @@
-class Solution(object):
-    def reorganizeString(self, s):
+class Solution:
+    def reorganizeString(self, s: str) -> str:
         count = Counter(s)
-        maxAllowed = (len(s)+1)//2
-        if any(freq > maxAllowed for freq in count.values()):
-            return ""
 
-        heap = [(-freq,char) for char,freq in count.items()]
-        heapq.heapify(heap)
+        maxHeap = [[-val,char] for char,val in count.items()]
+        heapq.heapify(maxHeap)
         
+        prev = None
         res = ""
-        prevFreq, prevChar = 0,0
-
-        while heap:
-            freq,char = heapq.heappop(heap)
-            res += char
-
-            if prevFreq < 0:
-                heapq.heappush(heap,(prevFreq, prevChar))
-            
-            prevFreq, prevChar = freq+1, char
-        return res
-
-
+        while maxHeap:
            
+            val,char = heapq.heappop(maxHeap)
+            res += char
+            val += 1
 
+            if prev:
+                heapq.heappush(maxHeap,prev)
+            if val != 0:
+               prev = [val,char]
+            else:
+                prev = None
         
-
-
-            
-         
+        return res if len(res) == len(s) else ""
+        
