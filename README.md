@@ -35,6 +35,7 @@ This repository serves as both a personal archive and a resource for others prep
 | [1297-maximum-number-of-balloons](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/1297-maximum-number-of-balloons) |
 | [1632-number-of-good-ways-to-split-a-string](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/1632-number-of-good-ways-to-split-a-string) |
 | [1635-number-of-good-pairs](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/1635-number-of-good-pairs) |
+| [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## String
 |  |
 | ------- |
@@ -118,6 +119,7 @@ This repository serves as both a personal archive and a resource for others prep
 | [1635-number-of-good-pairs](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/1635-number-of-good-pairs) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/2432-number-of-zero-filled-subarrays) |
+| [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Union Find
 |  |
 | ------- |
@@ -215,6 +217,7 @@ This repository serves as both a personal archive and a resource for others prep
 | [0438-find-all-anagrams-in-a-string](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0643-maximum-average-subarray-i) |
+| [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Linked List
 |  |
 | ------- |
