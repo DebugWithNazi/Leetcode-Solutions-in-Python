@@ -20,7 +20,8 @@ class Solution:
             if countS2[s2[i-len_s1]] == 0:
                 del countS2[s2[i-len_s1]]
             
-        return False
+        return countS1 == countS2
+             
 
 
 
