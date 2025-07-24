@@ -1,7 +1,6 @@
 class Solution:
     def findAndReplacePattern(self, words: List[str], pattern: str) -> List[str]:
         final = []
-       
         def patternMatching(value):
             count = 1
             string = []
