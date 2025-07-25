@@ -14,6 +14,7 @@ This repository serves as both a personal archive and a resource for others prep
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0041-first-missing-positive](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0128-longest-consecutive-sequence) |
@@ -40,6 +41,7 @@ This repository serves as both a personal archive and a resource for others prep
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0006-zigzag-conversion](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0006-zigzag-conversion) |
 | [0014-longest-common-prefix](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0020-valid-parentheses) |
@@ -216,6 +218,7 @@ This repository serves as both a personal archive and a resource for others prep
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0219-contains-duplicate-ii) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0567-permutation-in-string) |
