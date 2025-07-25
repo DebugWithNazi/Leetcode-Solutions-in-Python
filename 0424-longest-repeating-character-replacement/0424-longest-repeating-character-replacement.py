@@ -11,13 +11,13 @@ class Solution:
             else:
                 hashMap[s[right]] += 1
             
-            windowSize = max(windowSize, hashMap[s[right]])
-            if ( right - left + 1 ) - windowSize > k:
+            maxFreq = max(maxFreq, hashMap[s[right]])
+            if ( right - left + 1 ) - maxFreq > k:
                 hashMap[s[left]] -= 1
                 if hashMap[s[left]] == 0:
                    del hashMap[s[left]]
                 left += 1
-            maxFreq = max(maxFreq, right - left + 1)
-        return maxFreq
+            windowSize = max(windowSize, right - left + 1)
+        return windowSize
 
 
