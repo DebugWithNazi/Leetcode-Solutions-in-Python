@@ -29,6 +29,7 @@ This repository serves as both a personal archive and a resource for others prep
 | [0535-encode-and-decode-tinyurl](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0535-encode-and-decode-tinyurl) |
 | [0560-subarray-sum-equals-k](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0567-permutation-in-string) |
+| [0594-longest-harmonious-subsequence](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0594-longest-harmonious-subsequence) |
 | [0659-split-array-into-consecutive-subsequences](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0659-split-array-into-consecutive-subsequences) |
 | [0778-reorganize-string](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0778-reorganize-string) |
 | [0808-number-of-matching-subsequences](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0808-number-of-matching-subsequences) |
@@ -76,6 +77,7 @@ This repository serves as both a personal archive and a resource for others prep
 | [0049-group-anagrams](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0169-majority-element) |
+| [0594-longest-harmonious-subsequence](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0594-longest-harmonious-subsequence) |
 | [0778-reorganize-string](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0778-reorganize-string) |
 | [0808-number-of-matching-subsequences](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0808-number-of-matching-subsequences) |
 ## Heap (Priority Queue)
@@ -88,6 +90,7 @@ This repository serves as both a personal archive and a resource for others prep
 | ------- |
 | [0169-majority-element](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0383-ransom-note) |
+| [0594-longest-harmonious-subsequence](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0594-longest-harmonious-subsequence) |
 | [0778-reorganize-string](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0778-reorganize-string) |
 | [1297-maximum-number-of-balloons](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/1297-maximum-number-of-balloons) |
 | [1635-number-of-good-pairs](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/1635-number-of-good-pairs) |
@@ -117,6 +120,7 @@ This repository serves as both a personal archive and a resource for others prep
 | [0523-continuous-subarray-sum](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0560-subarray-sum-equals-k) |
+| [0594-longest-harmonious-subsequence](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0643-maximum-average-subarray-i) |
 | [0659-split-array-into-consecutive-subsequences](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0659-split-array-into-consecutive-subsequences) |
 | [0808-number-of-matching-subsequences](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0808-number-of-matching-subsequences) |
@@ -225,6 +229,7 @@ This repository serves as both a personal archive and a resource for others prep
 | [0424-longest-repeating-character-replacement](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0567-permutation-in-string) |
+| [0594-longest-harmonious-subsequence](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0643-maximum-average-subarray-i) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Linked List
