@@ -19,6 +19,7 @@ This repository serves as both a personal archive and a resource for others prep
 | [0049-group-anagrams](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0169-majority-element) |
+| [0187-repeated-dna-sequences](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0187-repeated-dna-sequences) |
 | [0205-isomorphic-strings](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0205-isomorphic-strings) |
 | [0219-contains-duplicate-ii](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0219-contains-duplicate-ii) |
 | [0383-ransom-note](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0383-ransom-note) |
@@ -50,6 +51,7 @@ This repository serves as both a personal archive and a resource for others prep
 | [0049-group-anagrams](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0151-reverse-words-in-a-string) |
+| [0187-repeated-dna-sequences](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0187-repeated-dna-sequences) |
 | [0205-isomorphic-strings](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0205-isomorphic-strings) |
 | [0383-ransom-note](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0392-is-subsequence) |
@@ -159,6 +161,7 @@ This repository serves as both a personal archive and a resource for others prep
 |  |
 | ------- |
 | [0136-single-number](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0136-single-number) |
+| [0187-repeated-dna-sequences](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0187-repeated-dna-sequences) |
 | [0190-reverse-bits](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0191-number-of-1-bits) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0201-bitwise-and-of-numbers-range) |
@@ -225,6 +228,7 @@ This repository serves as both a personal archive and a resource for others prep
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0187-repeated-dna-sequences](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0187-repeated-dna-sequences) |
 | [0219-contains-duplicate-ii](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0219-contains-duplicate-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -239,10 +243,15 @@ This repository serves as both a personal archive and a resource for others prep
 ## Hash Function
 |  |
 | ------- |
+| [0187-repeated-dna-sequences](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0187-repeated-dna-sequences) |
 | [0535-encode-and-decode-tinyurl](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0535-encode-and-decode-tinyurl) |
 | [0817-design-hashmap](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0817-design-hashmap) |
 ## Simulation
 |  |
 | ------- |
 | [2265-partition-array-according-to-given-pivot](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/2265-partition-array-according-to-given-pivot) |
+## Rolling Hash
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0187-repeated-dna-sequences) |
 <!---LeetCode Topics End-->
