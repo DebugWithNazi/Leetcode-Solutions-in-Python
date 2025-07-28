@@ -23,6 +23,7 @@ This repository serves as both a personal archive and a resource for others prep
 | [0205-isomorphic-strings](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0205-isomorphic-strings) |
 | [0219-contains-duplicate-ii](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0219-contains-duplicate-ii) |
 | [0383-ransom-note](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0383-ransom-note) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0523-continuous-subarray-sum](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0523-continuous-subarray-sum) |
@@ -55,6 +56,7 @@ This repository serves as both a personal archive and a resource for others prep
 | [0205-isomorphic-strings](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0205-isomorphic-strings) |
 | [0383-ransom-note](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0392-is-subsequence) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0535-encode-and-decode-tinyurl](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0535-encode-and-decode-tinyurl) |
@@ -227,6 +229,7 @@ This repository serves as both a personal archive and a resource for others prep
 | [0169-majority-element](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0191-number-of-1-bits) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 ## Sliding Window
 |  |
 | ------- |
@@ -234,6 +237,7 @@ This repository serves as both a personal archive and a resource for others prep
 | [0187-repeated-dna-sequences](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0187-repeated-dna-sequences) |
 | [0209-minimum-size-subarray-sum](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0219-contains-duplicate-ii) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0567-permutation-in-string) |
