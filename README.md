@@ -114,6 +114,7 @@ This repository serves as both a personal archive and a resource for others prep
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0189-rotate-array) |
+| [0209-minimum-size-subarray-sum](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0238-product-of-array-except-self) |
 | [0260-single-number-iii](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0260-single-number-iii) |
@@ -141,6 +142,7 @@ This repository serves as both a personal archive and a resource for others prep
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0209-minimum-size-subarray-sum) |
 | [0808-number-of-matching-subsequences](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0808-number-of-matching-subsequences) |
 ## Dynamic Programming
 |  |
@@ -204,6 +206,7 @@ This repository serves as both a personal archive and a resource for others prep
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0303-range-sum-query-immutable) |
 | [0523-continuous-subarray-sum](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0523-continuous-subarray-sum) |
@@ -229,6 +232,7 @@ This repository serves as both a personal archive and a resource for others prep
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0187-repeated-dna-sequences](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0187-repeated-dna-sequences) |
+| [0209-minimum-size-subarray-sum](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0219-contains-duplicate-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0438-find-all-anagrams-in-a-string) |
