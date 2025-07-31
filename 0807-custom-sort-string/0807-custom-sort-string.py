@@ -8,8 +8,7 @@ class Solution:
                     final += char
                     hashMap[char] -= 1
                 del hashMap[char]
-                          
-        
+                                  
         for char in s:  
             if char in hashMap:
                 while hashMap[char] != 0:
