@@ -108,6 +108,7 @@ This repository serves as both a personal archive and a resource for others prep
 | [0014-longest-common-prefix](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0039-combination-sum](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0039-combination-sum) |
 | [0041-first-missing-positive](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0049-group-anagrams) |
@@ -265,4 +266,8 @@ This repository serves as both a personal archive and a resource for others prep
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0187-repeated-dna-sequences) |
+## Backtracking
+|  |
+| ------- |
+| [0039-combination-sum](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0039-combination-sum) |
 <!---LeetCode Topics End-->
