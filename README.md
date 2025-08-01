@@ -50,6 +50,7 @@ This repository serves as both a personal archive and a resource for others prep
 | [0006-zigzag-conversion](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0006-zigzag-conversion) |
 | [0014-longest-common-prefix](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0151-reverse-words-in-a-string) |
@@ -153,6 +154,7 @@ This repository serves as both a personal archive and a resource for others prep
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -269,5 +271,6 @@ This repository serves as both a personal archive and a resource for others prep
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0039-combination-sum) |
 <!---LeetCode Topics End-->
