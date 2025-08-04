@@ -114,6 +114,7 @@ This repository serves as both a personal archive and a resource for others prep
 | [0042-trapping-rain-water](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0049-group-anagrams) |
+| [0078-subsets](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -171,6 +172,7 @@ This repository serves as both a personal archive and a resource for others prep
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0136-single-number) |
 | [0187-repeated-dna-sequences](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0187-repeated-dna-sequences) |
 | [0190-reverse-bits](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0190-reverse-bits) |
@@ -275,4 +277,5 @@ This repository serves as both a personal archive and a resource for others prep
 | [0022-generate-parentheses](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0046-permutations) |
+| [0078-subsets](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
