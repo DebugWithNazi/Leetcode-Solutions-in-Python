@@ -135,6 +135,7 @@ This repository serves as both a personal archive and a resource for others prep
 | [0594-longest-harmonious-subsequence](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0643-maximum-average-subarray-i) |
 | [0659-split-array-into-consecutive-subsequences](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0659-split-array-into-consecutive-subsequences) |
+| [0739-daily-temperatures](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0739-daily-temperatures) |
 | [0808-number-of-matching-subsequences](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0808-number-of-matching-subsequences) |
 | [0817-design-hashmap](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0817-design-hashmap) |
 | [0926-find-and-replace-pattern](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0926-find-and-replace-pattern) |
@@ -204,11 +205,13 @@ This repository serves as both a personal archive and a resource for others prep
 | ------- |
 | [0020-valid-parentheses](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0042-trapping-rain-water) |
+| [0739-daily-temperatures](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0739-daily-temperatures) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0042-trapping-rain-water) |
+| [0739-daily-temperatures](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0739-daily-temperatures) |
 ## Design
 |  |
 | ------- |
