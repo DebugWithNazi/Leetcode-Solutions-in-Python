@@ -236,6 +236,7 @@ This repository serves as both a personal archive and a resource for others prep
 | [0523-continuous-subarray-sum](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0523-continuous-subarray-sum) |
 | [1635-number-of-good-pairs](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/1635-number-of-good-pairs) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/2432-number-of-zero-filled-subarrays) |
+| [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -261,6 +262,7 @@ This repository serves as both a personal archive and a resource for others prep
 |  |
 | ------- |
 | [0817-design-hashmap](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0817-design-hashmap) |
+| [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Hash Function
 |  |
 | ------- |
@@ -282,4 +284,8 @@ This repository serves as both a personal archive and a resource for others prep
 | [0039-combination-sum](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0078-subsets) |
+## Number Theory
+|  |
+| ------- |
+| [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 <!---LeetCode Topics End-->
