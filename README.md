@@ -139,6 +139,7 @@ This repository serves as both a personal archive and a resource for others prep
 | [0817-design-hashmap](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0817-design-hashmap) |
 | [0926-find-and-replace-pattern](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0926-find-and-replace-pattern) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/1016-subarray-sums-divisible-by-k) |
+| [1241-decompress-run-length-encoded-list](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/1241-decompress-run-length-encoded-list) |
 | [1635-number-of-good-pairs](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/1635-number-of-good-pairs) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/2432-number-of-zero-filled-subarrays) |
