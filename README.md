@@ -38,6 +38,7 @@ This repository serves as both a personal archive and a resource for others prep
 | [0807-custom-sort-string](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0807-custom-sort-string) |
 | [0808-number-of-matching-subsequences](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0808-number-of-matching-subsequences) |
 | [0817-design-hashmap](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0817-design-hashmap) |
+| [0876-hand-of-straights](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0876-hand-of-straights) |
 | [0926-find-and-replace-pattern](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0926-find-and-replace-pattern) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1297-maximum-number-of-balloons](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/1297-maximum-number-of-balloons) |
@@ -79,6 +80,7 @@ This repository serves as both a personal archive and a resource for others prep
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0659-split-array-into-consecutive-subsequences](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0659-split-array-into-consecutive-subsequences) |
 | [0778-reorganize-string](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0778-reorganize-string) |
+| [0876-hand-of-straights](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0876-hand-of-straights) |
 ## Sorting
 |  |
 | ------- |
@@ -91,6 +93,7 @@ This repository serves as both a personal archive and a resource for others prep
 | [0778-reorganize-string](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0778-reorganize-string) |
 | [0807-custom-sort-string](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0807-custom-sort-string) |
 | [0808-number-of-matching-subsequences](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0808-number-of-matching-subsequences) |
+| [0876-hand-of-straights](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0876-hand-of-straights) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -142,6 +145,7 @@ This repository serves as both a personal archive and a resource for others prep
 | [0739-daily-temperatures](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0739-daily-temperatures) |
 | [0808-number-of-matching-subsequences](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0808-number-of-matching-subsequences) |
 | [0817-design-hashmap](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0817-design-hashmap) |
+| [0876-hand-of-straights](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0876-hand-of-straights) |
 | [0926-find-and-replace-pattern](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0926-find-and-replace-pattern) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1241-decompress-run-length-encoded-list](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/1241-decompress-run-length-encoded-list) |
