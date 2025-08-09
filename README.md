@@ -122,6 +122,7 @@ This repository serves as both a personal archive and a resource for others prep
 | [0042-trapping-rain-water](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0053-maximum-subarray) |
 | [0078-subsets](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -170,6 +171,7 @@ This repository serves as both a personal archive and a resource for others prep
 | ------- |
 | [0022-generate-parentheses](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0338-counting-bits](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0338-counting-bits) |
@@ -253,6 +255,7 @@ This repository serves as both a personal archive and a resource for others prep
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0053-maximum-subarray) |
 | [0148-sort-list](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0190-reverse-bits) |
