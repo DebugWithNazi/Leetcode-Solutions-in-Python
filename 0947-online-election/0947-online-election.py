@@ -21,6 +21,8 @@ class TopVotedCandidate:
         return self.leaders[idx]
         
 
+# Init: O(n) time, O(n) space
+# q(t): O(log n) time, O(1) extra space
 
 # Your TopVotedCandidate object will be instantiated and called as such:
 # obj = TopVotedCandidate(persons, times)
