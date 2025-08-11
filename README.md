@@ -123,6 +123,7 @@ This repository serves as both a personal archive and a resource for others prep
 | [0046-permutations](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0054-spiral-matrix) |
 | [0078-subsets](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -297,6 +298,7 @@ This repository serves as both a personal archive and a resource for others prep
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0054-spiral-matrix) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/2265-partition-array-according-to-given-pivot) |
 ## Rolling Hash
 |  |
@@ -325,4 +327,8 @@ This repository serves as both a personal archive and a resource for others prep
 |  |
 | ------- |
 | [0954-maximum-sum-circular-subarray](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0954-maximum-sum-circular-subarray) |
+## Matrix
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
