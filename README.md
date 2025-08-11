@@ -121,6 +121,7 @@ This repository serves as both a personal archive and a resource for others prep
 | [0041-first-missing-positive](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0046-permutations) |
+| [0048-rotate-image](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0054-spiral-matrix) |
@@ -253,6 +254,7 @@ This repository serves as both a personal archive and a resource for others prep
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0189-rotate-array) |
 | [0371-sum-of-two-integers](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0371-sum-of-two-integers) |
 | [0523-continuous-subarray-sum](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0523-continuous-subarray-sum) |
@@ -330,5 +332,6 @@ This repository serves as both a personal archive and a resource for others prep
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
