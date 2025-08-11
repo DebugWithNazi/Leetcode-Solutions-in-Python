@@ -40,6 +40,7 @@ This repository serves as both a personal archive and a resource for others prep
 | [0817-design-hashmap](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0817-design-hashmap) |
 | [0876-hand-of-straights](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0876-hand-of-straights) |
 | [0926-find-and-replace-pattern](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0926-find-and-replace-pattern) |
+| [0947-online-election](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0947-online-election) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1297-maximum-number-of-balloons](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/1297-maximum-number-of-balloons) |
 | [1632-number-of-good-ways-to-split-a-string](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/1632-number-of-good-ways-to-split-a-string) |
@@ -153,6 +154,7 @@ This repository serves as both a personal archive and a resource for others prep
 | [0817-design-hashmap](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0817-design-hashmap) |
 | [0876-hand-of-straights](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0876-hand-of-straights) |
 | [0926-find-and-replace-pattern](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0926-find-and-replace-pattern) |
+| [0947-online-election](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0947-online-election) |
 | [0954-maximum-sum-circular-subarray](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0954-maximum-sum-circular-subarray) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1063-best-sightseeing-pair](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/1063-best-sightseeing-pair) |
@@ -171,6 +173,7 @@ This repository serves as both a personal archive and a resource for others prep
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0209-minimum-size-subarray-sum) |
 | [0808-number-of-matching-subsequences](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0808-number-of-matching-subsequences) |
+| [0947-online-election](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0947-online-election) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -241,6 +244,7 @@ This repository serves as both a personal archive and a resource for others prep
 | [0303-range-sum-query-immutable](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0303-range-sum-query-immutable) |
 | [0535-encode-and-decode-tinyurl](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0535-encode-and-decode-tinyurl) |
 | [0817-design-hashmap](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0817-design-hashmap) |
+| [0947-online-election](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0947-online-election) |
 ## Prefix Sum
 |  |
 | ------- |
