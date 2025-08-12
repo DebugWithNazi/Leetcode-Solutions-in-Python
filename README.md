@@ -141,6 +141,7 @@ This repository serves as both a personal archive and a resource for others prep
 | [0238-product-of-array-except-self](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0238-product-of-array-except-self) |
 | [0260-single-number-iii](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0260-single-number-iii) |
 | [0283-move-zeroes](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0283-move-zeroes) |
+| [0289-game-of-life](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0289-game-of-life) |
 | [0303-range-sum-query-immutable](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0303-range-sum-query-immutable) |
 | [0523-continuous-subarray-sum](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0525-contiguous-array) |
@@ -305,6 +306,7 @@ This repository serves as both a personal archive and a resource for others prep
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0054-spiral-matrix) |
+| [0289-game-of-life](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0289-game-of-life) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/2265-partition-array-according-to-given-pivot) |
 ## Rolling Hash
 |  |
@@ -338,4 +340,5 @@ This repository serves as both a personal archive and a resource for others prep
 | ------- |
 | [0048-rotate-image](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0054-spiral-matrix) |
+| [0289-game-of-life](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0289-game-of-life) |
 <!---LeetCode Topics End-->
