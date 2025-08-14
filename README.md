@@ -245,6 +245,7 @@ This repository serves as both a personal archive and a resource for others prep
 | [0303-range-sum-query-immutable](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0303-range-sum-query-immutable) |
 | [0535-encode-and-decode-tinyurl](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0535-encode-and-decode-tinyurl) |
 | [0817-design-hashmap](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0817-design-hashmap) |
+| [0838-design-linked-list](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0838-design-linked-list) |
 | [0947-online-election](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0947-online-election) |
 ## Prefix Sum
 |  |
@@ -295,6 +296,7 @@ This repository serves as both a personal archive and a resource for others prep
 | ------- |
 | [0148-sort-list](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0148-sort-list) |
 | [0817-design-hashmap](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0817-design-hashmap) |
+| [0838-design-linked-list](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0838-design-linked-list) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Hash Function
 |  |
