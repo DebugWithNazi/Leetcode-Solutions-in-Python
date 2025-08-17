@@ -1,5 +1,4 @@
 🐍 Leetcode Solutions in Python
-
 Welcome to my curated collection of LeetCode solutions written in Python! 🧠✨
 This repository serves as both a personal archive and a resource for others preparing for coding interviews, improving problem-solving skills, or learning Pythonic approaches to common algorithmic challenges.
 
