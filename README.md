@@ -216,6 +216,7 @@ This repository serves as both a personal archive and a resource for others prep
 | [0019-remove-nth-node-from-end-of-list](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0042-trapping-rain-water) |
+| [0061-rotate-list](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0061-rotate-list) |
 | [0088-merge-sorted-array](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0125-valid-palindrome) |
 | [0148-sort-list](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0148-sort-list) |
@@ -296,6 +297,7 @@ This repository serves as both a personal archive and a resource for others prep
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0061-rotate-list](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0061-rotate-list) |
 | [0148-sort-list](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0148-sort-list) |
 | [0817-design-hashmap](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0817-design-hashmap) |
 | [0838-design-linked-list](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0838-design-linked-list) |
