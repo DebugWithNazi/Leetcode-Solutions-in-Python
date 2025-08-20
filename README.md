@@ -262,6 +262,7 @@ This repository serves as both a personal archive and a resource for others prep
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0189-rotate-array) |
 | [0371-sum-of-two-integers](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0371-sum-of-two-integers) |
@@ -296,6 +297,7 @@ This repository serves as both a personal archive and a resource for others prep
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0061-rotate-list](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0061-rotate-list) |
 | [0148-sort-list](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0148-sort-list) |
@@ -347,4 +349,8 @@ This repository serves as both a personal archive and a resource for others prep
 | [0048-rotate-image](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0054-spiral-matrix) |
 | [0289-game-of-life](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0289-game-of-life) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
