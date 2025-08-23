@@ -300,6 +300,7 @@ This repository serves as both a personal archive and a resource for others prep
 | [0002-add-two-numbers](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0061-rotate-list](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0061-rotate-list) |
+| [0092-reverse-linked-list-ii](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0092-reverse-linked-list-ii) |
 | [0148-sort-list](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0148-sort-list) |
 | [0817-design-hashmap](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0817-design-hashmap) |
 | [0838-design-linked-list](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0838-design-linked-list) |
