@@ -159,6 +159,7 @@ This repository serves as both a personal archive and a resource for others prep
 | [0947-online-election](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0947-online-election) |
 | [0954-maximum-sum-circular-subarray](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0954-maximum-sum-circular-subarray) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/1016-subarray-sums-divisible-by-k) |
+| [1036-rotting-oranges](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/1036-rotting-oranges) |
 | [1063-best-sightseeing-pair](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/1063-best-sightseeing-pair) |
 | [1241-decompress-run-length-encoded-list](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/1241-decompress-run-length-encoded-list) |
 | [1635-number-of-good-pairs](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/1635-number-of-good-pairs) |
@@ -353,6 +354,7 @@ This repository serves as both a personal archive and a resource for others prep
 | [0054-spiral-matrix](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0054-spiral-matrix) |
 | [0200-number-of-islands](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0200-number-of-islands) |
 | [0289-game-of-life](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0289-game-of-life) |
+| [1036-rotting-oranges](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/1036-rotting-oranges) |
 ## Recursion
 |  |
 | ------- |
@@ -366,6 +368,7 @@ This repository serves as both a personal archive and a resource for others prep
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0200-number-of-islands) |
+| [1036-rotting-oranges](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/1036-rotting-oranges) |
 | [1492-time-needed-to-inform-all-employees](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/1492-time-needed-to-inform-all-employees) |
 ## Tree
 |  |
