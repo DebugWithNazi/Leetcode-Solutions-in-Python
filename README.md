@@ -136,6 +136,7 @@ This repository serves as both a personal archive and a resource for others prep
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0189-rotate-array) |
+| [0200-number-of-islands](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0238-product-of-array-except-self) |
@@ -168,6 +169,7 @@ This repository serves as both a personal archive and a resource for others prep
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0128-longest-consecutive-sequence) |
+| [0200-number-of-islands](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0200-number-of-islands) |
 ## Binary Search
 |  |
 | ------- |
@@ -349,9 +351,18 @@ This repository serves as both a personal archive and a resource for others prep
 | ------- |
 | [0048-rotate-image](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0054-spiral-matrix) |
+| [0200-number-of-islands](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0200-number-of-islands) |
 | [0289-game-of-life](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0289-game-of-life) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0002-add-two-numbers) |
+## Depth-First Search
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0200-number-of-islands) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
