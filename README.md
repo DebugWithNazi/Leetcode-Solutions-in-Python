@@ -361,8 +361,14 @@ This repository serves as both a personal archive and a resource for others prep
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0200-number-of-islands) |
+| [1492-time-needed-to-inform-all-employees](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/1492-time-needed-to-inform-all-employees) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0200-number-of-islands) |
+| [1492-time-needed-to-inform-all-employees](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/1492-time-needed-to-inform-all-employees) |
+## Tree
+|  |
+| ------- |
+| [1492-time-needed-to-inform-all-employees](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/1492-time-needed-to-inform-all-employees) |
 <!---LeetCode Topics End-->
