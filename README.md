@@ -146,6 +146,7 @@ This repository serves as both a personal archive and a resource for others prep
 | [0303-range-sum-query-immutable](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0303-range-sum-query-immutable) |
 | [0523-continuous-subarray-sum](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0525-contiguous-array) |
+| [0542-01-matrix](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0594-longest-harmonious-subsequence) |
 | [0609-find-duplicate-file-in-system](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0609-find-duplicate-file-in-system) |
@@ -189,6 +190,7 @@ This repository serves as both a personal archive and a resource for others prep
 | [0152-maximum-product-subarray](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0152-maximum-product-subarray) |
 | [0338-counting-bits](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0392-is-subsequence) |
+| [0542-01-matrix](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0542-01-matrix) |
 | [0808-number-of-matching-subsequences](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0808-number-of-matching-subsequences) |
 | [0954-maximum-sum-circular-subarray](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0954-maximum-sum-circular-subarray) |
 | [1063-best-sightseeing-pair](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/1063-best-sightseeing-pair) |
@@ -354,6 +356,7 @@ This repository serves as both a personal archive and a resource for others prep
 | [0054-spiral-matrix](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0054-spiral-matrix) |
 | [0200-number-of-islands](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0200-number-of-islands) |
 | [0289-game-of-life](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0289-game-of-life) |
+| [0542-01-matrix](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0542-01-matrix) |
 | [1036-rotting-oranges](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/1036-rotting-oranges) |
 ## Recursion
 |  |
@@ -368,6 +371,7 @@ This repository serves as both a personal archive and a resource for others prep
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0200-number-of-islands) |
+| [0542-01-matrix](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/0542-01-matrix) |
 | [1036-rotting-oranges](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/1036-rotting-oranges) |
 | [1492-time-needed-to-inform-all-employees](https://github.com/DebugWithNazi/Leetcode-Solutions-in-Python/tree/master/1492-time-needed-to-inform-all-employees) |
 ## Tree
